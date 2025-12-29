@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 HI, I am RINSIN P S 
 ### About Me :<br><br>🔭 I’m currently working on  <br>• Full-stack web applications using Django & React  <br>• Scalable, production-ready solutions with clean UI and strong backend logic  <br><br>👯 I collaborate on  <br>• Professional web applications and real-world projects  <br>• Open-source and client-driven development initiatives  <br><br>🌱 I’m currently learning  <br>• Advanced React patterns and state management  <br>• Backend optimization, APIs, and deployment strategies  <br><br>💬 Ask me about  <br>• Full-stack development (Django, React, JavaScript)  <br>• Designing and deploying complete web solutions  <br>• Performance optimization and clean architecture  <br><br>⚡ Fun fact  <br>• I focus on building solutions that solve real business problems.<br><br><br><br><br><br>Full-Stack Developer with 1+ year of experience in Django and React.  <br>Specialized in building clean, scalable, and business-ready web applications.<br>
 
 
